@@ -1,0 +1,13 @@
+E:\Ado Projects\Task\Task\bin\Debug\Task.exe.config
+E:\Ado Projects\Task\Task\bin\Debug\Task.exe
+E:\Ado Projects\Task\Task\bin\Debug\Task.pdb
+E:\Ado Projects\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+E:\Ado Projects\Task\Task\obj\Debug\Task.Form1.resources
+E:\Ado Projects\Task\Task\obj\Debug\Task.Properties.Resources.resources
+E:\Ado Projects\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+E:\Ado Projects\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\Ado Projects\Task\Task\obj\Debug\Task.exe
+E:\Ado Projects\Task\Task\obj\Debug\Task.pdb
+E:\Ado Projects\Task\Task\obj\Debug\Task.Form2.resources
+E:\Ado Projects\Task\Task\obj\Debug\Task.Form3.resources
+E:\Ado Projects\Task\Task\obj\Debug\Task.Form4.resources
